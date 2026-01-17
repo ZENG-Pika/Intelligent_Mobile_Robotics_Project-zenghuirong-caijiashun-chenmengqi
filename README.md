@@ -1,7 +1,7 @@
 # Intelligent_Mobile_Robotics_Project-zenghuirong-caijiashun-chenmengqi
 ## 📖 项目简介 (Introduction)
 
-本项目是浙江大学《智能移动机器人》课程的大作业实验，小组成员：曾辉荣，蔡嘉顺，陈梦奇
+本项目是浙江大学《智能移动机器人》课程的大作业实验，小组成员： **曾辉荣， **蔡嘉顺， **陈梦奇
 
 项目旨在解决复杂三维环境下的移动机器人自主导航问题。系统采用了分层运动规划框架：
 1.  **前端路径规划 (Path Planning)**：利用 **A* (A-Star)** 算法在三维栅格地图中搜索出无碰撞的全局最优几何路径。
